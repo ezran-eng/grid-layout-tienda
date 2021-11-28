@@ -39,6 +39,9 @@ body.footer-fijo main{
 img{
     max-width: 100%;
 }
+a{
+    text-decoration: none;
+}
 .header{
     display:grid;
     justify-content: center;
